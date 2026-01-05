@@ -71,3 +71,37 @@ dino-runner/
 3. Survive as long as possible
 4. Beat your high score!
 
+## 📝 Development
+
+This project demonstrates core game development concepts including:
+
+- Infinite scrolling background
+- Procedural obstacle generation
+- Collision detection
+- Score management system
+- Game state management (Start, Playing, Game Over)
+
+### What I Learned
+
+- Character physics and movement
+- Spawning and pooling game objects
+- Game loop and state management
+- UI integration in Godot
+- Audio management
+
+## 👨‍💻 Author
+
+**Bima Turangga**
+
+- GitHub: [@bimaturangga](https://github.com/bimaturangga)
+
+## 🙏 Acknowledgments
+
+- Inspired by the Chrome Dino game
+- [Godot Engine Documentation](https://docs.godotengine.org/)
+- [GDQuest](https://www.gdquest.com/) - Godot tutorials
+- The Godot community
+
+---
+
+⭐ If you enjoyed this game, please consider giving it a star!
